@@ -16,7 +16,7 @@ public class stek {
         v.add("flix");
         v.push("oo");
         v.add("zen");
-        v.add("Net");
+        v.add("Net"); 
         System.out.println(v);
         System.out.println(v.search("Google"));
         System.out.println(v.isEmpty());
